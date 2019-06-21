@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to Alex Dai's github page！
+
+# 1.Data Oriented Programming stuffs
+##1.1 Data Oriented Design by Richard Fabian
 
 You can use the [editor on GitHub](https://github.com/alexdai/alexdai.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
